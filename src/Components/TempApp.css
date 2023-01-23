@@ -1,0 +1,23 @@
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background-color: rgb(92, 102, 217);
+  }
+  .inputData{
+margin-left: 85px;
+margin-top: 10px;
+  }
+  .field{
+border-radius: 5px;
+height: 30px;
+border-color: red;
+  }
+.info{
+margin-left: 100px;
+margin-top: 150px;
+color: rgb(236, 236, 238);
+}
